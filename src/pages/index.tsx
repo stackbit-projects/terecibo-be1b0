@@ -104,7 +104,6 @@ const Index = () => {
           <span role="img" aria-label="robot">
             ⚙️
           </span>{' '}
-        
             TENDRÁS A LA MANO LAS PREALERTAS, NOS EVITAMOS CUALQUIER TIPO DE INCONVENIENTES. NOSOTROS SOLUCIONAMOS.
         
         </li>
