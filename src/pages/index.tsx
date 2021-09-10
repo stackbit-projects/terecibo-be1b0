@@ -45,9 +45,6 @@ const Index = () => {
           <span role="img" aria-label="fire">
             🔥
           </span>{' '}
-          <a href="https://nextjs.org" rel="nofollow">
-            Next.js
-          </a>{' '}
           ESTARÁS AYUDANDO A GENERAR COMUNIDAD POR MEDIO DE LA TECNOLOGIA.
         </li>
         <li>
