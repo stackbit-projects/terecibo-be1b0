@@ -105,8 +105,7 @@ const Index = () => {
           <span role="img" aria-label="no_entry_sign">
             🗂
           </span>{' '}
-          VSCode configuration: Debug, Settings, Tasks and extension for
-          PostCSS, ESLint, Prettier, TypeScript
+          REALIZA EL SEGUIMIENTO EN VIVO DESDE QUE EL PRODUCTO LLEGO A LA EMPRESA LOGISTICA Y FUE ENTREGADO A TU NEIGHBOR.
         </li>
         <li>
           <span role="img" aria-label="robot">
