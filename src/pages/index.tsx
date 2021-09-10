@@ -121,7 +121,7 @@ const Index = () => {
             href="https://www.npmjs.com/package/@next/bundle-analyzer"
             rel="nofollow"
           >
-            Bundler Analyzer
+            TENDRÁS A LA MANO LAS PREALERTAS, NOS EVITAMOS CUALQUIER TIPO DE INCONVENIENTES. NOSOTROS SOLUCIONAMOS.
           </a>
         </li>
         <li>
