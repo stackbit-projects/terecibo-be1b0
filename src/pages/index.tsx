@@ -22,7 +22,7 @@ const Index = () => {
         />
       </a>
       <h1 className="font-bold text-2xl">
-        ¡Reserve su NEIGHBOR, haga su pedido y espere a que llegue el paquete!
+        Utilizamos tecnología para crear comunidad.
       </h1>
       <p>
         <span role="img" aria-label="rocket">
