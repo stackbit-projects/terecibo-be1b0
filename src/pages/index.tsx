@@ -28,8 +28,11 @@ const Index = () => {
         <span role="img" aria-label="rocket">
           🚀
         </span>{' '}
-        Next.js Boilerplate is a starter code for your Next js project by
-        putting developer experience first .{' '}
+        Encuentre un NEIGHBOR de confianza cercano que pueda ayudarlo a mantener seguras las entregas de sus paquetes.
+
+¡Reserve su NEIGHBOR, haga su pedido y espere a que llegue el paquete!
+
+Disminuimos la tasa de rebote de las empresas de envíos y nos aseguramos que el paquete llegue en la fecha indicada.{' '}
         <span role="img" aria-label="zap">
           ⚡️
         </span>{' '}
