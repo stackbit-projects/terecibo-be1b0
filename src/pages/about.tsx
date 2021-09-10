@@ -3,7 +3,8 @@ import { Main } from '../templates/Main';
 
 const About = () => (
   <Main meta={<Meta title="Lorem ipsum" description="Lorem ipsum" />}>
-    <p>   
+    <p>
+         
       TERECIBO es una aplicación web disponible para dispositivos móviles, tabletas y computadoras de escritorio que permite a los compradores en línea conectarse con un vecino (neighbor) o negocio local validado y de confianza que firmará y retendrá las entregas para ellos.
     </p>
     <p>
