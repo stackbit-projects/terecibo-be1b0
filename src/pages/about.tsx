@@ -9,7 +9,7 @@ const About = () => (
 Todos los vecinos son mayores de 21 años y por $ por envÍo, puede reservar un NEIGHBOR para casi cualquier cosa. Después de que su NEIGHBOR reciba su entrega, usted se encarga de recogerla a la hora que le resulte conveniente.
 
 Al pagar en cualquier sitio, descubra sus fechas de envío estimadas y abra una nueva pestaña o use su teléfono inteligente o tableta y vaya a terecibo.com. Ingrese la (s) fecha (s) proporcionada al finalizar la compra para buscar y reservar un NEIGHBOR en segundos.
-
+  
     </p>
     <p>
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione fuga
