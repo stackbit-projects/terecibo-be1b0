@@ -36,8 +36,7 @@ const Index = () => {
         <span role="img" aria-label="zap">
           ⚡️
         </span>{' '}
-        Made with Next.js, TypeScript, ESLint, Prettier, Husky, Lint-Staged,
-        VSCode, Netlify, PostCSS, Tailwind CSS.
+        Disminuimos la tasa de rebote de las empresas de envíos y nos aseguramos que el paquete llegue en la fecha indicada.
       </p>
       <h2 className="font-semibold text-lg">Next js Boilerplate Features</h2>
       <p>Developer experience first:</p>
