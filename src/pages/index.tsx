@@ -84,7 +84,7 @@ const Index = () => {
           <span role="img" aria-label="hammer_and_wrench">
             🛠
           </span>{' '}
-          TENDRÁS A LA MANO LAS PREALERTAS, NOS EVITAMOS CUALQUIER TIPO DE INCONVENIENTES. NOSOTROS SOLUCIONAMOS.{' '}
+          {' '}
           <a href="https://prettier.io" rel="nofollow">
             Prettier
           </a>
