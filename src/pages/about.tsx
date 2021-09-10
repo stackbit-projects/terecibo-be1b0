@@ -6,6 +6,7 @@ const About = () => (
     <p>
       <b>   
       TERECIBO es una aplicación web disponible para dispositivos móviles, tabletas y computadoras de escritorio que permite a los compradores en línea conectarse con un vecino (neighbor) o negocio local validado y de confianza que firmará y retendrá las entregas para ellos.
+    
     </p>
     <p>
       Todos los vecinos son mayores de 21 años y por $ por envÍo, puede reservar un NEIGHBOR para casi cualquier cosa. Después de que su NEIGHBOR reciba su entrega, usted se encarga de recogerla a la hora que le resulte conveniente.
