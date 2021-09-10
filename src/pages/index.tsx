@@ -81,15 +81,6 @@ const Index = () => {
           </a>
         </li>
         <li>
-          <span role="img" aria-label="hammer_and_wrench">
-            🛠
-          </span>{' '}
-          {' '}
-          <a href="https://prettier.io" rel="nofollow">
-            Prettier
-          </a>
-        </li>
-        <li>
           <span role="img" aria-label="fox_face">
             🦊
           </span>{' '}
