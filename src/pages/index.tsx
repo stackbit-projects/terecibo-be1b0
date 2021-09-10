@@ -39,7 +39,6 @@ const Index = () => {
         Disminuimos la tasa de rebote de las empresas de envíos y nos aseguramos que el paquete llegue en la fecha indicada.
       </p>
       <h2 className="font-semibold text-lg">¿Por qué debes utilizar TeRECIBO?</h2>
-      <p></p>
       <ul>
         <li>
           <span role="img" aria-label="fire">
