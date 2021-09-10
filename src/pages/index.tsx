@@ -104,9 +104,7 @@ const Index = () => {
           <span role="img" aria-label="robot">
             ⚙️
           </span>{' '}
-          <a
-            href="https://www.npmjs.com/package/@next/bundle-analyzer"
-            rel="nofollow"
+          
           >
             TENDRÁS A LA MANO LAS PREALERTAS, NOS EVITAMOS CUALQUIER TIPO DE INCONVENIENTES. NOSOTROS SOLUCIONAMOS.
           </a>
