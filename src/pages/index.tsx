@@ -48,7 +48,7 @@ const Index = () => {
           <a href="https://nextjs.org" rel="nofollow">
             Next.js
           </a>{' '}
-          for Static Site Generator
+          ESTARÁS AYUDANDO A GENERAR COMUNIDAD POR MEDIO DE LA TECNOLOGIA.
         </li>
         <li>
           <span role="img" aria-label="art">
