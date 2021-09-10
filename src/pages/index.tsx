@@ -75,8 +75,7 @@ const Index = () => {
           <span role="img" aria-label="pencil2">
             ✏️
           </span>{' '}
-          TENDRÁS TU PROPIA CUENTA DONDE PODRÁS CONOCER EL ESTADO DE LOS ENVÍOS, GESTIONAR NOVEDADES Y TENDRÁS LA OPCIÓN DE REGISTRAR O ACTUALIZAR TUS METODOS DE PAGOS.
-{' '}
+          TENDRÁS TU PROPIA CUENTA DONDE PODRÁS CONOCER EL ESTADO DE LOS ENVÍOS, GESTIONAR NOVEDADES Y TENDRÁS LA OPCIÓN DE REGISTRAR O ACTUALIZAR TUS METODOS DE PAGOS.{' '}
           <a href="https://eslint.org" rel="nofollow">
             ESLint
           </a>
