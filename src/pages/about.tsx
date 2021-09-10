@@ -10,10 +10,7 @@ const About = () => (
 
     </p>
     <p>
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione fuga
-      recusandae quidem. Quaerat molestiae blanditiis doloremque possimus labore
-      voluptatibus distinctio recusandae autem esse explicabo molestias officia
-      placeat, accusamus aut saepe.
+      Al pagar en cualquier sitio, descubra sus fechas de envío estimadas y abra una nueva pestaña o use su teléfono inteligente o tableta y vaya a terecibo.com. Ingrese la (s) fecha (s) proporcionada al finalizar la compra para buscar y reservar un NEIGHBOR en segundos.
     </p>
   </Main>
 );
