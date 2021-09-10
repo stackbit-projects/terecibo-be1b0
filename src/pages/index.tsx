@@ -99,7 +99,7 @@ const Index = () => {
           <span role="img" aria-label="no_entry_sign">
             🚫
           </span>{' '}
-          Lint-staged for running linters on Git staged files
+          RECIBE TU PEDIDO EN EL TIEMPO Y EL LUGAR INDICADO EN EL PRIMER INTENTO.
         </li>
         <li>
           <span role="img" aria-label="no_entry_sign">
